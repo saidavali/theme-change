@@ -1,0 +1,23 @@
+{
+  "name": "npm-ss-theme-change",
+  "version": "1.0.0",
+  "description": "it will change the theme of entire project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidavali/theme-change.git"
+  },
+  "keywords": [
+    "Theme",
+    "change"
+  ],
+  "author": "Saidavali Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidavali/theme-change/issues"
+  },
+  "homepage": "https://github.com/saidavali/theme-change#readme"
+}
